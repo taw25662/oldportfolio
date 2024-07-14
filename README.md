@@ -4,20 +4,17 @@ Welcome to my portfolio! This project showcases my skills and projects as a fron
 
 Overview
 
-This portfolio includes various sections that highlight my work, skills, and experience. It is designed with a minimalist, professional, and artistic style, with content available in both English and Portuguese.
+This portfolio includes various sections that highlight my work, skills, and experience. It is designed with a minimalist, professional, and artistic style, with all my basic information. 
 
 Features
 
 Responsive Design: The layout adjusts smoothly across different screen sizes.
-Interactive Elements: Includes a horizontal scroller effect, language toggles, and more.
-Visually Appealing UI: Transparent navbar, yellowgreen text, and aesthetically pleasing backgrounds.
-Credits
 
 I would like to acknowledge the following sources for their contributions:
 
 SVG Logos:
 
-Gmail, LinkedIn, GitHub logos: Sourced from SVG repo.
+Gmail, LinkedIn, GitHub, HTML, CSS, JavaScript, Python, PHP, MySQL, and React logos: Sourced from SVG repo.
 Twitter X logo: Sourced from Simple Icon website.
 Scroll Down Style:
 
